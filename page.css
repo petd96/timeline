@@ -1,0 +1,80 @@
+body {
+  background-color: white;
+
+}
+
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+
+
+}
+
+#img-caption {
+  display: flex;
+  justify-content: center;
+
+}
+
+.img-div {
+
+
+  background: white;
+  padding: 10px;
+  margin: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+
+}
+
+
+
+
+
+.main {
+  margin: 30px 8px;
+padding: 15px;
+border-radius: 5px;
+background: #eee;
+
+
+}
+
+
+
+.header {
+  text-align: center;
+}
+
+.mainbody {
+
+
+  /* display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  margin: 8px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+#timeline-heading {
+  display: flex;
+  justify-content: center;
+
+}
+
+#otherwork {
+  display: flex;
+  justify-content: center;
+
+}
